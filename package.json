@@ -1,0 +1,14 @@
+{
+  "name": "clima",
+  "version": "1.0.0",
+  "description": "proyecto ejemplo de ajax",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "ivan checa",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "lite-server": "^2.2.2"
+  }
+}
